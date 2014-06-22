@@ -1,6 +1,6 @@
 ng-101
 ===========
-The project makes it easy to understand all the concepts of [AngularJS][1]. A boilerplate code to get up and go on [AngularJS][1].          
+The project makes it easy to understand all the concepts of [AngularJS][1]. A boilerplate code to get up and get going on [AngularJS][1].          
 This project uses the following concepts
 
  - Module
